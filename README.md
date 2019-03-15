@@ -4,3 +4,5 @@
 2. SystemSounds 類別
 3. SoundPlayer 類別(WAV)
 4. WMPLib.dll (MP3)
+
+> MP3 音效來源：http://www.cdcc.gov.tw/fdownload/fdlist.asp?PageNo=2&id={43664160-55C2-4680-B892-64F81D13745D}
